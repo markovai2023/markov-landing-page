@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "MarkovAI landing page",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -27,8 +27,8 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
+    "title": "MarkovAI:",
+    "subtitle": "Make your life easier with AI and data.",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
@@ -37,19 +37,29 @@
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:markovai2023@gmail.com?subject=I like react landing page!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Our fist data-AI enabled social event platform: Abies.live",
     "items": [
       {
-        "title": "A plug n play template",
+        "title": "Bring people close together via social events",
         "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
+        "title": "Help you find the best events based on your need through artificial intelligence and big data!",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Help organize social events securely and fast!",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/product2.jpg"
+      },
+      {
+        "title": "Help you avoid scams!",
         "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
         "img": "/assets/images/product2.jpg"
       }
