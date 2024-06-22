@@ -12,6 +12,8 @@ RUN npm install
 ADD ./ ./
 
 RUN npx browserslist@latest --update-db
+RUN npx update-browserslist-db@latest
+RUN npm install --save-dev eslint
 RUN npm update
 RUN npm run build
 
